@@ -1,8 +1,0 @@
-{
-    "id": "plugin-app-security-guard",
-    "version": "1.2.0",
-    "name": "Application Security Guard",
-    "description": "通过IP地址限制表单提交频率，并记录所有尝试，有效防止机器人刷帖和恶意提交。",
-    "author": "bbb-lsy07",
-    "type": "plugin"
-}
